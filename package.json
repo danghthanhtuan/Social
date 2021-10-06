@@ -1,0 +1,8 @@
+{
+  "name": "NODE-MXH",
+  "version": "1.0.0",
+  "description": "A mini social network for TuanPro",
+  "main": "src/server.ts",
+  "author": "Tuan",
+  "license": "MIT"
+}
