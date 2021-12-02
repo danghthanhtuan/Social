@@ -1,0 +1,7 @@
+- Open terminal command windows
+- npm init or yarn init
+- git init
+- git commit -m "init commit"
+- git add \*
+- git config --global user.name "Thanh Tuan"
+- git remote add origin https://github.com/danghthanhtuan/Social.git
